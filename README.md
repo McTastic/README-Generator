@@ -20,5 +20,5 @@
 
 
     ## Additional Info:
-    - Github: [Mctastic](https://github.com/test)
+    - Github: [Mctastic](https://github.com/mctastic)
     - Email: mctastic2121@gmail.com 
