@@ -1,10 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateReadme = require('./readme.js');
+const generateReadme = require('./utils/readme.js');
 
 // Array of questions to ask the user
 const questions = [
-    // Project name
     {
         type: 'input',
         name: 'title',
@@ -139,7 +138,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function (userInput) {
         console.log(userInput)
-        writeToFile("README.md", generateMarkdown(userInput));
+        writeToFile("README.md", generateReadme(userInput));
     });
 };
 
