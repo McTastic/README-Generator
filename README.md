@@ -1,14 +1,12 @@
-# test
-    ## Licensing:
-    [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
-    ## Table of Contents 
-    - [Demo](#demo)
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Additional Info](#additional-info)
+# README Generator
 
-    ##Demo
+ - [Demo](#demo)
+ - [Description](#description)
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Additional Info](#additional-info)
+
+    ## Demo:
     ![demo of terminal questions](./demo/readme_demo.gif)
 
     ## Description:
