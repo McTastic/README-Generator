@@ -8,6 +8,7 @@
 
     ## Demo:
     ![demo of terminal questions](./demo/readme_demo.gif)
+    ![demo of readme.md file creation](./demo/readme_created.gif)
 
     ## Description:
     This is a simple application that runs in a terminal window which will generate a README.md file. The user will be asked a series of questions which will help determine the basic skeleton of the README file and then a markdown file is created once they have finished. 
