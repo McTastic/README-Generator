@@ -1,25 +1,25 @@
 # Testing
-    ## Licensing:
-    [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
-    ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Contribution](#contribution)
-    - [Testing](#testing)
-    - [Additional Info](#additional-info)
-    ## Description:
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+ ## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Additional Info](#additional-info)
+  ## Description:
     Testing
-    ## Installation:
+  ## Installation:
     Through tests!
-    ## Usage:
+  ## Usage:
     By testing it!
-    ## License:
+  ## License:
     MIT
-    ## Contribution:
+ ## Contribution:
     Very carefullly
-    ## Testing:
+ ## Testing:
     What's a test?
-    ## Additional Info:
+  ## Additional Info:
     - Github: [McTastic](https://github.com/McTastic)
     - Email: no 
